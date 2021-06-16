@@ -1,0 +1,16 @@
+{
+  "default": {
+    "c4core": {
+      "baseline": "2021-01-14",
+      "port-version": 0
+    },
+    "ftxui": {
+      "baseline": "2021-06-15",
+      "port-version": 0
+    },
+    "ryml": {
+      "baseline": "2021-05-27",
+      "port-version": 1
+    }
+  }
+}

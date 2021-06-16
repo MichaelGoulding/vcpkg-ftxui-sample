@@ -1,0 +1,14 @@
+{
+  "name": "ftxui",
+  "version-string": "2021-06-15",
+  "description": "C++ Functional Terminal User Interface",
+  "homepage": "https://github.com/ArthurSonzogni/FTXUI",
+  "license": "MIT",
+  "supports": "!(arm | arm64 | osx)",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ftxui",
+      "version-string": "2021-06-15",
+      "port-version": 0
+    }
+  ]
+}

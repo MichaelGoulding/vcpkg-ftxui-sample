@@ -1,0 +1,9 @@
+{
+  "registries": [
+    {
+      "kind": "filesystem",
+      "path": "ThirdParty/vcpkg-ports",
+      "packages": [ "c4core", "ryml", "ftxui" ]
+    }
+  ]
+}

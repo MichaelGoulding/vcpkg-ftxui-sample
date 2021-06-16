@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ryml",
+      "version-string": "2021-05-27",
+      "port-version": 1
+    }
+  ]
+}

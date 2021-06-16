@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version-string": "0.0.1",
+  "dependencies": [
+    "fmt",
+    "gtest",
+    "detours",
+    "ryml",
+    "ftxui"
+  ]
+}
